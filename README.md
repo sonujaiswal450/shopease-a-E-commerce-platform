@@ -66,13 +66,13 @@ This project was the **centerpiece of my final year submission** and also played
 
 
 🚀 What I Learned
-Built a complete database-driven website from scratch
+   Built a complete database-driven website from scratch
 
-Applied CRUD operations, user authentication, and admin roles
+   Applied CRUD operations, user authentication, and admin roles
 
-Improved understanding of frontend-backend integration
+   Improved understanding of frontend-backend integration
 
-Gained hands-on experience in responsive design and UI/UX
+   Gained hands-on experience in responsive design and UI/UX
 
 📞 Let's Connect
 🔗 GitHub: github.com/sonujaiswal450
@@ -81,6 +81,6 @@ Gained hands-on experience in responsive design and UI/UX
 
 📧 Email: sonujaiswl100@gmail.com
 
-🏁 Final Note
+🏁 Final Note <br>
 Shopsy isn't just an eCommerce platform — it's proof that with curiosity, code, and commitment, you can build something that shapes your future.
 — Sonu 👨‍💻
