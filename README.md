@@ -54,4 +54,33 @@ This project was the **centerpiece of my final year submission** and also played
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/shopsy.git
+   https://github.com/sonujaiswal450/shopsy-a-E-commerce-platform.git
+ 2.Open XAMPP and start Apache and MySQL
+
+ 3.Import the shopsy.sql file into phpMyAdmin
+
+ 4.Move the project folder to htdocs
+
+ 5.Open your browser and go to:<br>
+   http://localhost/shopsy
+
+
+🚀 What I Learned
+Built a complete database-driven website from scratch
+
+Applied CRUD operations, user authentication, and admin roles
+
+Improved understanding of frontend-backend integration
+
+Gained hands-on experience in responsive design and UI/UX
+
+📞 Let's Connect
+🔗 GitHub: github.com/sonujaiswal450
+
+🌐 Portfolio: coming soon
+
+📧 Email: sonujaiswl100@gmail.com
+
+🏁 Final Note
+Shopsy isn't just an eCommerce platform — it's proof that with curiosity, code, and commitment, you can build something that shapes your future.
+— Sonu 👨‍💻
