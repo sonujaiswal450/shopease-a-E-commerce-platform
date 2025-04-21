@@ -1,8 +1,8 @@
-# 🛍️ Shopsy — A Modern eCommerce Experience with Admin Superpowers 🚀
+# 🛍️ Shopease — A Modern eCommerce Experience with Admin Superpowers 🚀
 
 > “Turning ideas into products and code into impact.” — Sonu
 
-Welcome to **Shopsy**, a complete eCommerce web application I built as my final year project. Designed to be simple, powerful, and user-friendly, Shopsy offers customers a seamless shopping experience and gives the **admin full control** over the platform through a secure, functional **Admin Panel**.
+Welcome to **Shopease**, a complete eCommerce web application I built as my final year project. Designed to be simple, powerful, and user-friendly, Shopsy offers customers a seamless shopping experience and gives the **admin full control** over the platform through a secure, functional **Admin Panel**.
 
 Shopsy was a core highlight of my portfolio and significantly contributed to my successful application to **Gemen University**.
 
@@ -10,7 +10,7 @@ Shopsy was a core highlight of my portfolio and significantly contributed to my 
 
 ## 💡 About the Project
 
-**Shopsy** is more than just a project — it's a full-fledged online shopping platform developed using **HTML, CSS, PHP**, and **MySQL** with clear separation between user and admin roles. The platform helps both customers and administrators manage shopping and product operations smoothly.
+**Shopease** is more than just a project — it's a full-fledged online shopping platform developed using **HTML, CSS, PHP**, and **MySQL** with clear separation between user and admin roles. The platform helps both customers and administrators manage shopping and product operations smoothly.
 
 ---
 
@@ -38,8 +38,8 @@ Shopsy was a core highlight of my portfolio and significantly contributed to my 
 - 👥 View and manage user list
 - 📊 Dashboard view for total products, orders & users
 
-- ![SHOPSY UI](https://github.com/sonujaiswal450/shopsy-a-E-commerce-platform/blob/main/Screenshot%202024-07-16%20213448.png)
-- ![SHOPSY UI]()
+- ![SHOPEASE UI](https://github.com/sonujaiswal450/shopsy-a-E-commerce-platform/blob/main/Screenshot%202024-07-16%20213448.png)
+- ![SHOPEASE UI]()
 
 
 ---
@@ -58,15 +58,15 @@ This project was the **centerpiece of my final year submission** and also played
 
 1. Clone the repository:
    ```bash
-   https://github.com/sonujaiswal450/shopsy-a-E-commerce-platform.git
+   https://github.com/sonujaiswal450/shopease-a-E-commerce-platform.git
  2.Open XAMPP and start Apache and MySQL
 
- 3.Import the shopsy.sql file into phpMyAdmin
+ 3.Import the shopease.sql file into phpMyAdmin
 
  4.Move the project folder to htdocs
 
  5.Open your browser and go to:<br>
-   http://localhost/shopsy
+   http://localhost/shopease
 
 
 🚀 What I Learned
