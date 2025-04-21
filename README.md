@@ -38,8 +38,8 @@ Shopsy was a core highlight of my portfolio and significantly contributed to my 
 - 👥 View and manage user list
 - 📊 Dashboard view for total products, orders & users
 
-- ![SHOPSY UI](https://github.com/sonujaiswal450/AI-chat-App/blob/main/Screenshot%202024-05-16%20173840.png)
-- ![SHOPSY UI](https://github.com/sonujaiswal450/AI-chat-App/blob/main/Screenshot%202024-05-16%20174117.png)
+- ![SHOPSY UI](https://github.com/sonujaiswal450/shopsy-a-E-commerce-platform/blob/main/Screenshot%202024-07-16%20213448.png)
+- ![SHOPSY UI]()
 
 
 ---
